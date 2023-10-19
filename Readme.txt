@@ -8,3 +8,5 @@ Pegar todos os arquivos que tenho na pasta de Donwloads e move todas elas para a
 teste_python
 
 Minha ideia futura ainda é deixar estes dois códigos como executavel para ficar mais facil a realização do mesmo.
+
+Atualizando o código do organizador.py já foi criado o executavel;
