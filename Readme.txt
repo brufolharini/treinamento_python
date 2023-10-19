@@ -5,6 +5,6 @@ No segundo código (organizador.py) criei um script onde eu digo o caminho de or
 organizador, neste código atualmente ele realiza o procedimento de:
 
 Pegar todos os arquivos que tenho na pasta de Donwloads e move todas elas para a pasta de Destino nos meus Documentos, pasta essa que criei como
-treinamento_python
+teste_python
 
 Minha ideia futura ainda é deixar estes dois códigos como executavel para ficar mais facil a realização do mesmo.
